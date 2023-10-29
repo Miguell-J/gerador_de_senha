@@ -15,15 +15,18 @@ O programa gerará uma senha aleatória com o número de dígitos especificados 
 
 ## Exemplo de Uso
 
-$python gerador_de_senhas.py
+```python
+python gerador_de_senhas.py
 
-- $x----x----BEM VINDO AO GERADOR DE SENHAS----x----x
+x----x----BEM VINDO AO GERADOR DE SENHAS----x----x
 
-- $COLOQUE O NÚMERO DE DIGITOS DA SUA SENHA: 12
+COLOQUE O NÚMERO DE DIGITOS DA SUA SENHA: 12
 
-- $x----x----AQUI ESTÁ A SUA SENHA GERADA----x----x 
+x----x----AQUI ESTÁ A SUA SENHA GERADA----x----x 
 
-- $LpW#rD5k%7n@
+$LpW#rD5k%7n@
+```
+
 ## Personalização
 Você pode personalizar o conjunto de caracteres a partir do qual a senha é gerada, alterando a variável char. Atualmente, a senha é gerada a partir dos seguintes caracteres: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%¨&*().,/;:[]\~+=-_?`
 
