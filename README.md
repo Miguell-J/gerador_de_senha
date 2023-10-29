@@ -28,7 +28,8 @@ x----x----AQUI ESTÁ A SUA SENHA GERADA----x----x
 ```
 
 ## Personalização
-Você pode personalizar o conjunto de caracteres a partir do qual a senha é gerada, alterando a variável char. Atualmente, a senha é gerada a partir dos seguintes caracteres: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%¨&*().,/;:[]\~+=-_?`
+Você pode personalizar o conjunto de caracteres a partir do qual a senha é gerada, alterando a variável char. Atualmente, a senha é gerada a partir dos seguintes caracteres:
+ - abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%¨&*().,/;:[]\~+=-_?`
 
 Sinta-se à vontade para adicionar, remover ou modificar caracteres de acordo com suas necessidades.
 
