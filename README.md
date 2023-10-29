@@ -24,7 +24,7 @@ COLOQUE O NÚMERO DE DIGITOS DA SUA SENHA: 12
 
 x----x----AQUI ESTÁ A SUA SENHA GERADA----x----x 
 
-LpW#rD5k%7n@
+>>> LpW#rD5k%7n@
 ```
 
 ## Personalização
